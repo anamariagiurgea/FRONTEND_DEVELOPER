@@ -1,6 +1,6 @@
 # FRONTEND_DEVELOPER
-Primul meu Readme
- Despre 
+  Despre Primul meu Readme
+ <br>
  <br> New File->Readme.Md
  <br>Save
  <br>git init 
