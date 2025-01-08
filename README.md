@@ -1,5 +1,6 @@
 # FRONTEND_DEVELOPER
   Despre Primul meu Readme
+ <br>Pwd - pentru a ne a arata calea, fisierul in care vom lucra
  <br>
  <br> New File->Readme.Md
  <br>Save
