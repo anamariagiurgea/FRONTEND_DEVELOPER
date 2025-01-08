@@ -3,14 +3,14 @@ Primul meu Readme
  Despre 
  <br> New File->Readme.Md
  <br>Save
- git init 
- git commit -m "Initial Commit"
- git push origin
-
- Modificari si actualizari pe Github
- git status
- git add -A
- git commit -m "readme.md"
- git push origin
-
- enjoy for  the moment! i might did it! yey!
+ <br>git init 
+ <br>git commit -m "Initial Commit"
+ <br> git push origin
+ <br>
+ <br>Modificari si actualizari pe Github
+ <br>git status
+ <br>git add -A
+ <br>git commit -m "readme.md"
+ <br>git push origin
+ <br>
+ <br>enjoy for  the moment! i might did it! yey!
