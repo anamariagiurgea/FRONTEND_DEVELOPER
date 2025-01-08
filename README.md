@@ -1,3 +1,10 @@
 # FRONTEND_DEVELOPER
 Primul meu Readme
-se face cu new file apoi readme.md, extensia md
+ Despre 
+ New File->Readme.Md
+ Save
+ git add -A
+ git commit -m "readme.md"
+ git push origin
+
+ enjoy for  the moment!
